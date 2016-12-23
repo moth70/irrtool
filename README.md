@@ -14,7 +14,7 @@ root@mm:/home/mm/irrmoth# python get_prefixes.py AS-2K test-policy cisco_xr Y
 ----------><----------><------------><-----------><----------><------------><-----------
 
 prefix-set test-policy<br>
-  86.105.244.0/22 ge 32,<br>
+  &nbsp;86.105.244.0/22 ge 32,<br>
   86.105.245.0/24 ge 32,<br>
   89.45.176.0/20 ge 32,<br>
   89.47.56.0/23 ge 32,<br>
