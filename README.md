@@ -10,6 +10,7 @@ In ourput depends on command line switches you will get ready to paset config fo
 eg.
 
 root@mm:/home/mm/irrmoth# python get_prefixes.py AS-2K test-policy cisco_xr Y
+
 ----------><----------><------------><-----------><----------><------------><-----------
 prefix-set test-policy
   86.105.244.0/22 ge 32,
