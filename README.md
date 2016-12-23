@@ -44,4 +44,10 @@ end-set<br>
 
 I will add huawei routers helper in near future.
 
-To donate, if you like it send emile to: maciek.motyl@gmail.com
+
+In my real production environment it is part of biger project to track ripe db changes to the routers.
+I use netmiko module to connect to routers (by ssh).
+I will publish it too soon.
+
+
+To donate, if you like it send email to: maciek.motyl@gmail.com
